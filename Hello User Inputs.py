@@ -1,3 +1,4 @@
-
+# Ask user for name wait for response
 name = input("Hello, what is your name? ")
-print("Hello " + name);
+# say hello plus users name
+print("Hello " + name)
